@@ -1,1 +1,1 @@
-# System-spravy-ukolu
+7. Vytvořte systém správy úkolů, zaměřte se na API. Autorizace operací nad úkolem je definována pomocí autorizačního ID. K&nbsp;úkolům je možné přiřadit tagy a vyhledávat podle nich. Součástí API je implementace readonly CALDAV protokolu (se závislostí na výběru tagů). Jako datové úložiště použijte (MS SQL, Postgress).
